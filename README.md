@@ -1,2 +1,1 @@
-# microlearning-dotnet
-Microlearning .NET (C#)
+# Microlearning .NET (C#)
